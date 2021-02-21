@@ -1,0 +1,8 @@
+body {
+  background-color: rbg(89, 89, 89);
+}
+#header_body_divider {
+	height:20px;
+	width:100%;
+	background-color: green;
+}
